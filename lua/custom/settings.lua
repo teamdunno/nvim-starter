@@ -1,3 +1,4 @@
+---@type dunnovim.Settings
 local M = {}
 
 M.ui = {
